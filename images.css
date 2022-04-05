@@ -1,0 +1,19 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size:30px;
+    margin: 0;
+    height: 8%;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border-radius: 30px;
+    border: black 5px solid;
+}
+#stats{
+    font-size: 20px;
+    text-align: center;
+}
